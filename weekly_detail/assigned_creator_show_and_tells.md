@@ -16,6 +16,26 @@
 
 ## Creator Show & Tell Assignments
 
+Sheila Levrant de Bretteville
+
+Max Bill
+
+Jan Tschischold
+
+Paul Rand
+
+Yayoi Kusama
+
+Charlotte Perriand
+
+Sophie Tauber-Arp
+
+Bruno Munari
+
+El Lissitzky
+
+Quentin Fiore
+
 Peter Saville (music / punk aesthetic)
 
 Chip Kidd (book jackets)
@@ -39,3 +59,5 @@ Shepard Fairey (semiotics)
 Saul Bass (for logos, not film titles)
 
 Milton Glaser (logos, composition)
+
+

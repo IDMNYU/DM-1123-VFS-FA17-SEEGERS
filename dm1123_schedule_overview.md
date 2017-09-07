@@ -26,29 +26,23 @@
 - Week 1  
     - [Sept 5  
 	**Course and Student Introductions   
-	Overview of Course**]
-	(Weekly_detail/dm1123_Weekly_detail_wk01.md)  
+	Overview of Course**](Weekly_detail/dm1123_Weekly_detail_wk01.md)  
     - [Sept 7  
 	__Gestalt Lecture    
-	Adobe Illustrator Introduction__]
-	(Weekly_detail/dm1123_Weekly_detail_wk01.md)
+	Adobe Illustrator Introduction__](Weekly_detail/dm1123_Weekly_detail_wk01.md)
 
 - Week 2  
     - [Sept 12  
-	__Components: Color__]
-	(Weekly_detail/dm1123_Weekly_detail_wk02.md)  
+	__Components: Color__](Weekly_detail/dm1123_Weekly_detail_wk02.md)  
 	___Note: Beginning today students will be issued a grade of 'W' if they drop a class from their spring schedule or withdraw for the term.___ 
     - [Sept 14  
-	__Components: Type__]
-	(Weekly_detail/dm1123_Weekly_detail_wk02.md)
+	__Components: Type__](Weekly_detail/dm1123_Weekly_detail_wk02.md)
 
 - Week 3 
     - [Sept 19  
-	__Adobe Illustrator Demo__]
-	(Weekly_detail/dm1123_Weekly_detail_wk03.md)  
+	__Adobe Illustrator Demo__](Weekly_detail/dm1123_Weekly_detail_wk03.md)  
     - [Sept 21  
-	__Components: Color, Type & Image HW Review__]
-	(Weekly_detail/dm1123_Weekly_detail_wk03.md)  
+	__Components: Color, Type & Image HW Review__](Weekly_detail/dm1123_Weekly_detail_wk03.md)  
 
 - Week 4
     - [Sept 26  

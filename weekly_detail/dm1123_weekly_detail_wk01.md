@@ -27,8 +27,8 @@
 </tr>
 <tr>
   <td valign="top">1</td>
-  <td valign="top" width="48%"><strong>Jan 26</strong></td>
-  <td valign="top" width="48%"><strong>Jan 28</strong></td>
+  <td valign="top" width="48%"><strong>Sept 5</strong></td>
+  <td valign="top" width="48%"><strong>Sept 7</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
@@ -45,7 +45,7 @@
 <ul>
  <li>Any requests, questions, errors?</li>
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
- <li>Final Draft will be on github by Wed, Sept 2.</li>
+ <li>Final Draft will be on github </li>
 </ul>
 </ul>
 <strong>Discuss Homework</strong><br><br>
