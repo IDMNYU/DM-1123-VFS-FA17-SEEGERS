@@ -13,7 +13,7 @@
 
 ## CLASS EXERCISE: FIRST DAY OF CLASS
 
-**email your response as a PDF file to jseegers@nyu.edu, and NAME YOUR FILE 'lastname, firstname - first day exercise.pdf'**
+**Post a PDF of your responses to the class Slack in the #exercise-1stday channel**
 
 #### CLASS EXERCISE: Your Learning Goals
 * Why am I in this class? Why have I chosen to be sitting here NOW? Is there some better place I could be? 
