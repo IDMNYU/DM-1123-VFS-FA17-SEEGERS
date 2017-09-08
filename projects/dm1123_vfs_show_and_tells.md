@@ -17,7 +17,7 @@
 #### CREATOR SHOW & TELLS
 * Pair up w/ 1 classmate
 * Select an artist, designer, or collective from the list below.
-* Specific show & tell due dates are outlined in the schedule at the end of the syllabus and on basecamp.
+* Specific show & tell due dates are outlined in the schedule below.
 * Check out at least one book from the NYU library (or library of your choice) which contains images of the work of your chosen artist, designer, or collective, and bring it to class. 
 * Each team member should bring in at least 3 or more digitized examples of the work of your chosen artist, designer, or collective for a total of at least 6 images.
 * Be familiar with a brief bio (or overview) and be prepared to CRITICALLY discuss your assigned artist, designer, or collective and their supporting work in an engaging presentation in front of the class. 
@@ -34,43 +34,16 @@
 * If you have sound during your presentation, set your external sound preferences in system preferences to **Crestron**
 
 
-**Artists, Designers & Collectives:**
+### **Schedule** 
 
-* Peter Saville (music / punk aesthetic)
-* Chip Kidd (book jackets)
-* Josef Muller-Brockman (composition)
-* Aleksander Rodchenko (composition & photography)
-* Andy Warhol (image)
-* Tibor Kalman (image)
-* David Carson (type & image)
-* Muriel Cooper (logo & composition)
-* Barbara Krueger (type & image)
-* Stefan Sagmeister (type & image)
-* Paula Scher (type & image)
-* Shepard Fairey (semiotics)
-* Saul Bass (for logos, not film titles)
+- Tuesday 9/12 - Rachel Buigas-Lopez & Yahya Ashraf Khan: Peter Saville
+- Tuesday 9/12 - Brittaney Chang & Dan Li: Sheila Levrant de Bretteville
+- Tuesday 9/12 - Izaac Crayton & Greta Kovacs: El Lisstizky. 
 
-Tuesday, Jan 31
+- Tuesday 9/19 - Miguel Guerrero & Ikra Rashid: Andy Warhol
+- Tuesday 9/19 - Marco (Yitao) He & Marisa J Lee: Josef Muller Brockman
+- Tuesday 9/19 - Hung Huynh & Abhi Cvk: Bruno Munari
 
-- Peter Saville, AJ & Karen  
-- Saul Bass, Alice & Rebecca
-
-Thursday: Feb 2
-
-- Andy Warhol, GIlbert & Frank
-- Shepard Fairey, Adam & Ada
-
-Tuesday, Feb 7
-
-- Muriel Cooper, Samir & Andy
-- Tibor Kalman, Kate & Kristen
-
-Thursday: Feb 9
-
-- Barbara Kruger, Yulin & Brendan
-- Josef Muller Brockmann, Luvnish & Madison
-
-Tuesday, Feb 14
-
-- Chip Kidd, Lauren & Markus
-- David Carson, Drona & Matt
+- Thursday 9/21 - Kevin Loh & Alex Xu: Charlotte Perriand
+- Thursday 9/21 - Joris Kwong & Lucas White: Barbara Kruger
+- Thursday 9/21 - Daniel Heechan Lee & Michael Vestal: Tibor Kalman
