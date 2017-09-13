@@ -17,7 +17,7 @@
 
 **In Class**
 
-* go to color.cc and complete the color matching game.
+* go to http://color.method.ac/ and complete the color matching game.
 * take a screenshot of your final score and post to the class Slack in the #exercise-color channel
 
 **For Homework**
@@ -29,4 +29,6 @@
   * Hue, Saturation & Brightness/Lightness (HSL)
 * Discuss the image’s color context**
   * Primary, Secondary, Tertiary, Complementary, and Analogous
+
+
 
