@@ -47,3 +47,5 @@
 - Thursday 9/21 - Kevin Loh & Alex Xu: Charlotte Perriand
 - Thursday 9/21 - Joris Kwong & Lucas White: Barbara Kruger
 - Thursday 9/21 - Daniel Heechan Lee & Michael Vestal: Tibor Kalman
+
+- Tuesday 9/26 - Karen Yu: Sophie Tauber Arp
