@@ -14,14 +14,27 @@
 
 ## GROUPS
 
-**Group A**
+**Group A:**
+Rachel Buigas-Lopez
+Brittaney Chang
+Izaac Crayton
+Hung Hyunh
+Yahya Kahn
+Daniel Li
+Ikra Rashid
+Michael Vestal
+Lucas White
 
-* A
-
-
-**Group B**
-
-* B
+**Group B:**
+Miguel Herrero
+Marco He
+Greta Kovacs
+Joris Kwong
+Marisa Lee
+Daniel Lee
+Kevin Loh
+Alex Xu
+Karen Yu
 
 
 
