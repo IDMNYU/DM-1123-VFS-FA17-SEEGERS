@@ -25,6 +25,7 @@
 
 *Post to the class Slack in the #exercise-typefaces channel*
 
+* **Choose a typeface that you find interesting, it could be your favorite, or one you've come across and want to investigate further**
 * **List the typeface’s family (you can consult http://thinkingwithtype.com):**
   * serif
   * sans serif
