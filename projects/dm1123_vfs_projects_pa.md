@@ -15,6 +15,13 @@
 ## PROJECT: PHYSICAL APPLICATION (PA)
 Your final logo in color in a physical, applied state (i.e. poster, packaging, signage, apparel, business cards, stickers, etc.). Your choice for your logo’s applied state is up to you. You decide. There are literally hundreds of possible applied states. 
 
+**Fall 2017 DUE DATES:**
+- 1st Draft: November 2, 2017
+- 2nd Draft: November 9, 2017
+
+- Final Draft: December 14, 2017
+
+
 #### PA 1st Draft    
 Post on your class website in grayscale (includes black and white) with physapp1 category or tag.
 
