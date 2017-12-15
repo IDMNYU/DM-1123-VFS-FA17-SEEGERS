@@ -20,7 +20,7 @@ This should be compiled using Adobe InDesign. The visual foundation principles w
 PDF Cover:
 
 * Your first and last name
-* Visual Foundation Studio 2016 or VFS 2016 
+* Visual Foundation Studio 2017 or VFS 2017 
 
 Before each assignment, a header that labels each project (See below.)
 
@@ -61,6 +61,6 @@ Make sure that images are included if they are not embedded within illustrator.
 
 #### Letter to Next Cohort
 
-*Email your letter as a pdf to jseegers@nyu.edu. Do NOT put letters on basecamp, a public forum.*
+*Email your letter as a pdf to jseegers@nyu.edu. Do NOT put letters on Slack, a public forum.*
 
 Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
